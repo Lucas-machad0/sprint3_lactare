@@ -7,6 +7,8 @@ Integrantes:
     Lucas Machado 557431
     Pedro Salimon 555038
 -----------------------------------------------------------------------------------
+Link gitHub: https://github.com/Lucas-machad0/sprint3_lactare
+-----------------------------------------------------------------------------------
 
 Aplicativo mobile informativo desenvolvido em Flutter para conscientizar e orientar os usuários sobre a doação de leite.
 
